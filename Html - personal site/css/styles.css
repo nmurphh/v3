@@ -1,0 +1,77 @@
+body {
+    background-color: rgb(10, 10 , 10);
+}
+
+img:hover {
+    background-color: gold;
+}
+
+hr {
+    border-width: 3px;
+    border-color: white;
+    width: 100%;
+}
+
+form {
+    color:white;
+}
+
+.submit {
+    color:white;
+    background-color: orangered;
+}
+
+h1 {
+    font-family: arial;
+    color: rgb(209, 83, 37);
+}
+
+p {
+    color: white;
+}
+
+li {
+    color: white;
+}
+
+th {
+    color: white;
+}
+
+td {
+    color: white;
+}
+
+h3 {
+    color: green;
+    font-family: arial;
+}
+
+#heading {
+    color: blue;
+}
+
+
+.bacon {
+    background-color: green;
+}
+
+.broccoli {
+    background-color: green;
+}
+
+
+
+.table {
+    color:black;
+}
+
+a {
+    color:rgb(183, 0, 255);
+}
+
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
